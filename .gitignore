@@ -62,3 +62,8 @@ app.*.map.json
 *.jks
 key.properties
 **/credentials.json
+
+# Large media files (optional - uncomment if you don't want to commit videos)
+*.mp4
+*.mov
+*.avi

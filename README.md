@@ -2,6 +2,14 @@
 
 A Flutter application that lets you chat with AI-powered movie characters using Google's Gemini AI. Browse characters from your favorite movies and have realistic conversations as if you're talking to the actual character!
 
+## Demo
+
+Check out the app in action:
+
+https://drive.google.com/file/d/1LZvvs5zWSYDVFGVSDlVGZn1zwBQ4NLHp/view?usp=sharing
+
+> **Note**: If the video doesn't play above, you can download [demo.MP4](https://drive.google.com/file/d/1LZvvs5zWSYDVFGVSDlVGZn1zwBQ4NLHp/view?usp=sharing) and view it locally.
+
 ## Features
 
 - **Firebase Authentication**: Secure login and signup with email and password
