@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "709799087079",
+    "project_id": "aichatchar",
+    "storage_bucket": "aichatchar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709799087079:android:1ab38985a6bc72cb9fcb42",
+        "android_client_info": {
+          "package_name": "com.example.ai_char_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNFfR21f5nE8MjgmFghOiln76P5z48P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709799087079:android:b0df3904f8ee8f279fcb42",
+        "android_client_info": {
+          "package_name": "com.tamerelzein.aicharapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNFfR21f5nE8MjgmFghOiln76P5z48P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709799087079:android:7d09c8a5d271542a9fcb42",
+        "android_client_info": {
+          "package_name": "com.tamerelzein.charapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNFfR21f5nE8MjgmFghOiln76P5z48P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
