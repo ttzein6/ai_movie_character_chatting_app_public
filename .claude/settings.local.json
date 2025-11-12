@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "Bash(git pull:*)",
-      "Bash(brew install:*)"
+      "Bash(brew install:*)",
+      "Bash(find:*)",
+      "Bash(git log:*)",
+      "Bash(xargs -I {} sh -c 'git diff-tree --no-commit-id --name-only -r {} | grep -E \"\"\"\"(\\.env|api.*key|secret|password|credential|token)\"\"\"\" && echo \"\"\"\"Found in commit: {}\"\"\"\"')",
+      "Bash(git ls-tree:*)",
+      "Bash(git rm:*)"
     ],
     "deny": [],
     "ask": []
